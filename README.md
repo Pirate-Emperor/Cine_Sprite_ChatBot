@@ -24,7 +24,7 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 git clone https://github.com/Pirate-Emperor/Cine_Sprite_Chatbot.git
-cd Cine_Sprite_Chatbot
+cd Cine_Sprite_Chatbot/src
 ```
 
 Install the required dependencies:
